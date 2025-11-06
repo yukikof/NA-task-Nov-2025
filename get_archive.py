@@ -23,8 +23,3 @@ def get_archive():
 i = get_archive()
 
 print(i)
-
-#def cook(meat):
-#    return(meat*5)
-
-#print(cook(7))
